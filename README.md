@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @slashnot or Ramkumar K
 - 👀 I’m interested in building beautiful yet functional stuff
-- 🌱 I’m currently learning to learn how to learn
-- 💞️ I’m looking to collaborate on projects that interest me, especially wierd stuff, like using JSON to write javascript programs.
 - 📫 The best way to reach me is sending an email to slashnot84@gmail.com
 
 <!---
